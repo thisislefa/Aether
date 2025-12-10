@@ -29,9 +29,4 @@ A sophisticated interactive card system that simulates realistic physics for dra
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/thisislefa/physics-cards.git
-
-
-
-
-
+git clone https://github.com/thisislefa/Aether.git
