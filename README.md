@@ -6,7 +6,7 @@ Aether is an advanced interactive card stack component that combines physics sim
 
 ## Live Preview
 
-[View Aether](https://thisislefa.github.io/Aether/)
+[Experience Live Demo](https://lefajmofokeng.github.io/Aether/)
 
 ## Core Features
 
@@ -256,4 +256,5 @@ This component is provided as a demonstration of advanced web interaction techni
 ---
 
 *This component demonstrates sophisticated web interaction patterns combining physics simulation, gesture recognition, and smooth animations. The architecture is designed for extensibility, making it suitable for integration into complex web applications requiring dynamic, interactive content displays.*
+
 
